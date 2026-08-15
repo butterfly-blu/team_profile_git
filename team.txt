@@ -6,4 +6,9 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
+<<<<<<< HEAD
 Versión: 1.1 - Cambios de diseño 
+=======
+
+Versión :2.0 Nueva Arquitectura
+>>>>>>> feature_version_cata
